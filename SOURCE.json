@@ -1,0 +1,17 @@
+{
+  "schema": "sd-source-provenance/1",
+  "paper": "0704.0175v2",
+  "url": "https://arxiv.org/abs/0704.0175v2",
+  "tex_sha256": "42701333084168406372a9f345907498a01dc9e72c67616613a1984255fa92e6",
+  "source_archive_sha256": "913961c6b15be89949a8fed365f989c29b37f9325ff84c116552525c6dbed58e",
+  "pdf_sha256": "8e98b64fdf6b6cb4b831cb9bdab1febbdc68c3da87f111778be3d3f5605cf26b",
+  "scientific_protocol_commit": "88f7b2ad9fb181638255a8633d3c14ac720d2026",
+  "scientific_protocol_sha256": "7cb131d90a8a6f1862903b17a4f4dc43d2a410320eb6e7df10e8aa3afdaceec6",
+  "original_code_sha256": "47a80fa6b556e3ff2e4d336c2bace0de6857e0168ab53c51dde5df058325d6c0",
+  "reference_results_sha256": "b90d85b78ef3d4cd702f462159867b6d9d57e541d644c3183b5f606aba94da04",
+  "journal": {
+    "doi": "10.1088/1475-7516/2007/10/004",
+    "equations_compared": false
+  },
+  "code_changes": "I/O and resource wrapper only; mathematical expressions, inputs, grids and criteria preserved. This is a replay, not a new independent implementation."
+}
