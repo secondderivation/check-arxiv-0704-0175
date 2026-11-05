@@ -40,7 +40,7 @@ For fixed radial distances R_i, `x_i=sqrt(R_i²-b²)` and
 
 `dI/db = b^-7 [-6S - sum_i (1-u_i²)³/u_i]`.
 
-The latter includes the chain-rule boundary terms. These two geometric limits are explicitly distinct from a spacecraft ephemeris; neither includes general independent radial endpoint velocities. Decimal arithmetic retains the small tail; a floating-point quadrature that rounds the tail to zero is not evidence that it is exactly zero. Simpson quadrature of cos(theta)^5 and the finite-difference derivatives pass the frozen criteria for the declared grid. See the numerical table in REPORT.md.
+The latter includes the chain-rule boundary terms. These two geometric limits are explicitly distinct from a spacecraft ephemeris; neither includes general independent radial endpoint velocities. Decimal arithmetic retains the small tail; a floating-point quadrature that rounds the tail to zero is not evidence that it is exactly zero. Simpson quadrature of cos(theta)^5 and the finite-difference derivatives pass the frozen criteria for the declared grid. See `reference/check-results.json`, `finite_endpoints`, for the complete numerical results.
 
 ## GR calibration, c and measured mass
 

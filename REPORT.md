@@ -1,6 +1,6 @@
 # Solar System Constraints on Gauss-Bonnet Mediated Dark Energy
 
-[0704.0175v2](https://arxiv.org/abs/0704.0175v2) · Review 0.1.0-rc1
+[0704.0175v2](https://arxiv.org/abs/0704.0175v2) · Review 0.1.0-rc2
 
 **Technical finding — not externally confirmed.** The printed potentials imply a Doppler coefficient 35 times smaller, weakening the paper’s proxy coupling bound by sqrt(35).
 
@@ -25,7 +25,7 @@ Not checked: Field-equation solution beyond the assumed potentials; A new Cassin
 
 Historical Claude first pass; OpenAI coefficient review was exposed. The 4 November Codex critique derived and implemented the calculation anew from the fixed source while knowing the hypothesis. This is informed derivational independence, not blind discovery or external human confirmation. This package replays that saved implementation; it does not independently reanalyse Cassini recordings. See PROTOCOL.md and SOURCE.json.
 
-Tools: Claude (historical first pass); Codex, gpt-6-astra/high (informed critique and packaging); Python standard library. Human involvement: Owner selected scope and the unconfirmed technical-finding route; no external scientific confirmation..
+Tools: Claude (historical first pass); Codex, gpt-6-astra/high (informed critique and packaging); Python standard library. Human involvement: Owner selected scope and the unconfirmed technical-finding route; no external scientific confirmation.
 
 ## Replay
 
