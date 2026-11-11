@@ -1,6 +1,6 @@
 # Solar System Constraints on Gauss-Bonnet Mediated Dark Energy
 
-[0704.0175v2](https://arxiv.org/abs/0704.0175v2) · Review 0.1.0-rc2
+[0704.0175v2](https://arxiv.org/abs/0704.0175v2) · Review 0.1.0-rc3
 
 **Technical finding — not externally confirmed.** The printed potentials imply a Doppler coefficient 35 times smaller, weakening the paper’s proxy coupling bound by sqrt(35).
 
